@@ -1,3 +1,5 @@
+///<reference path="IProduct"/>
+
 module App{
     export class Product implements IProduct{
         constructor(
